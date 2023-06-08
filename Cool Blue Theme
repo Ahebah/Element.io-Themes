@@ -1,0 +1,24 @@
+```
+{
+    "name": "Cool Blue Theme",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#00FFFF",
+        "primary-color": "#555555",
+        "warning-color": "#f9c003",
+        "sidebar-color": "#000000",
+        "roomlist-background-color": "#191919",
+        "roomlist-text-color": "#00FFFF",
+        "roomlist-text-secondary-color": "#e5e5e5",
+        "roomlist-highlights-color": "#323232",
+        "roomlist-separator-color": "#4c4c4c",
+        "timeline-background-color": "#000000",
+        "timeline-text-color": "#e5e5e5",
+        "secondary-content": "#e5e5e5",
+        "tertiary-content": "#e5e5e5",
+        "timeline-text-secondary-color": "#b2b2b2",
+        "timeline-highlights-color": "#212121",
+        "reaction-row-button-selected-bg-color": "#00FFFF"
+    }
+}
+```

@@ -7,14 +7,14 @@
     "warning-color": "#ed4a46",
     "sidebar-color": "#161b22",
     "roomlist-background-color": "#0d1117",
-    "roomlist-text-color": "#6dfffa", // changed to neon blue
+    "roomlist-text-color": "#6dfffa",
     "roomlist-text-secondary-color": "#b9b9b9",
     "roomlist-highlights-color": "#161b22",
     "roomlist-separator-color": "#21262d",
     "timeline-background-color": "#0d1117",
-    "timeline-text-color": "#6dfffa", // changed to neon blue
-    "secondary-content": "#6dfffa", // changed to neon blue
-    "tertiary-content": "#6dfffa", // changed to neon blue
+    "timeline-text-color": "#6dfffa",
+    "secondary-content": "#6dfffa",
+    "tertiary-content": "#6dfffa",
     "timeline-text-secondary-color": "#8b949e",
     "timeline-highlights-color": "#252525",
     "reaction-row-button-selected-bg-color": "#132338",

@@ -1,0 +1,32 @@
+{
+  "name": "ElvUI Dark",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#00c0fa",
+    "primary-color": "#fcba03",
+    "warning-color": "#ff0000",
+    "sidebar-color": "#1c1c1c",
+    "roomlist-background-color": "#2d2f32",
+    "roomlist-text-color": "#ffffff",
+    "roomlist-text-secondary-color": "#b9b9b9",
+    "roomlist-highlights-color": "#336699",
+    "roomlist-separator-color": "#2d2f32",
+    "timeline-background-color": "#2d2f32",
+    "timeline-text-color": "#ffffff",
+    "secondary-content": "#6b6b6b",
+    "tertiary-content": "#a5a5a5",
+    "timeline-text-secondary-color": "#8b949e",
+    "timeline-highlights-color": "#336699",
+    "reaction-row-button-selected-bg-color": "#132338",
+    "username-colors": [
+      "#0070DE",
+      "#FF7D0A",
+      "#1EFF00",
+      "#A330C9",
+      "#FF1D1D",
+      "#00FFFF",
+      "#EB00EB",
+      "#FFFFFF"
+    ]
+  }
+}

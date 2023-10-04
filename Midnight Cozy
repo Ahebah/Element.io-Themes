@@ -1,6 +1,6 @@
 {
     "name": "Midnight Cozy",
-    "is_dark": true,
+    "is_dark": false,
     "colors": {
         "accent-color": "#FFB6C1",
         "primary-color": "#FFDD00",

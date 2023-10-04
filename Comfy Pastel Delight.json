@@ -1,0 +1,24 @@
+{
+    "name": "Comfy Pastel Delight",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#FFB6C1",      // Pastel Pink
+        "primary-color": "#FFD700",     // Pastel Yellow
+        "warning-color": "#FFA07A",     // Light Salmon
+
+        "sidebar-color": "#F0E68C",     // Khaki
+        "roomlist-background-color": "#FFFAF0", // Floral White
+        "roomlist-highlights-color": "#FFD700", // Pastel Yellow
+        "roomlist-separator-color": "#FFE4B5", // Moccasin
+        "roomlist-text-color": "#F08080", // Light Coral
+        "roomlist-text-secondary-color": "#FFA07A", // Light Salmon
+
+        "timeline-background-color": "#FFFAF0", // Floral White
+        "timeline-highlights-color": "#FFD700", // Pastel Yellow
+        "timeline-text-color": "#F08080", // Light Coral
+        "secondary-content": "#FFA07A", // Light Salmon
+        "tertiary-content": "#FFA07A", // Light Salmon
+        "timeline-text-secondary-color": "#FFD700", // Pastel Yellow
+        "reaction-row-button-selected-bg-color": "#FFD700" // Pastel Yellow
+    }
+}

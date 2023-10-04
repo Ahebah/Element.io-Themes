@@ -1,6 +1,6 @@
 {
     "name": "Comfy Pastel Delight",
-    "is_dark": true,
+    "is_dark": false,
     "colors": {
         "accent-color": "#FFB6C1",      // Pastel Pink
         "primary-color": "#FFD700",     // Pastel Yellow

@@ -1,0 +1,24 @@
+{
+    "name": "Pastel Cozy",
+    "is_dark": false,
+    "colors": {
+        "accent-color": "#FFB6C1",    // Salmon Pink
+        "primary-color": "#FFDD00",   // Yellow
+        "warning-color": "#FBC403",   // Yellow-Orange
+
+        "sidebar-color": "#FDF6F6",   // Light Pinkish Gray
+        "roomlist-background-color": "#FFEFF0",  // Light Salmon Pink
+        "roomlist-highlights-color": "#FFE0E2", // Lighter Salmon Pink
+        "roomlist-separator-color": "#FFD3D7", // Lightest Salmon Pink
+        "roomlist-text-color": "#333333",      // Dark Gray
+        "roomlist-text-secondary-color": "#666666", // Slightly Darker Gray
+
+        "timeline-background-color": "#FFEFF0",    // Light Salmon Pink
+        "timeline-highlights-color": "#FFE0E2",   // Lighter Salmon Pink
+        "timeline-text-color": "#333333",         // Dark Gray
+        "secondary-content": "#666666",           // Slightly Darker Gray
+        "tertiary-content": "#999999",            // Even Lighter Gray
+        "timeline-text-secondary-color": "#FFB6C1", // Salmon Pink
+        "reaction-row-button-selected-bg-color": "#FFD3D7" // Lightest Salmon Pink
+    }
+}

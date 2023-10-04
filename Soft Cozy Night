@@ -1,0 +1,24 @@
+{
+    "name": "Soft Cozy Night",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#FFB6C1",
+        "primary-color": "#FFDD00",
+        "warning-color": "#FBC403",
+
+        "sidebar-color": "#1C2130",
+        "roomlist-background-color": "#F4F1F2",
+        "roomlist-highlights-color": "#EAE6E7",
+        "roomlist-separator-color": "#DDD8DA",
+        "roomlist-text-color": "#444444",
+        "roomlist-text-secondary-color": "#777777",
+
+        "timeline-background-color": "#F4F1F2",
+        "timeline-highlights-color": "#EAE6E7",
+        "timeline-text-color": "#444444",
+        "secondary-content": "#777777",
+        "tertiary-content": "#AAAAAA",
+        "timeline-text-secondary-color": "#FFB6C1",
+        "reaction-row-button-selected-bg-color": "#DDD8DA"
+    }
+}

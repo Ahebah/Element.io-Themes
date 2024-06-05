@@ -1,0 +1,32 @@
+{
+    "name": "Pip-Boy Theme",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#00ff00",
+        "accent": "#00ff00",
+        "primary-color": "#00ff00",
+        "warning-color": "#ffaa00",
+        "alert": "#ffaa00",
+
+        "sidebar-color": "#000000",
+        "roomlist-background-color": "#0a0a0a",
+        "roomlist-text-color": "#00ff00",
+        "roomlist-text-secondary-color": "#007700",
+        "roomlist-highlights-color": "#00440052",
+        "roomlist-separator-color": "#003300",
+
+        "timeline-background-color": "#0a0a0a",
+        "timeline-text-color": "#00ff00",
+        "secondary-content": "#00ff00",
+        "tertiary-content": "#00ff00",
+        "timeline-text-secondary-color": "#007700",
+        "timeline-highlights-color": "#00220012",
+
+        "reaction-row-button-selected-bg-color": "#004400",
+        "menu-selected-color": "#004400",
+        "focus-bg-color": "#004400",
+        "room-highlight-color": "#004400",
+        "other-user-pill-bg-color": "#004400",
+        "togglesw-off-color": "#003300"
+    }
+}

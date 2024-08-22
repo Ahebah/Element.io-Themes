@@ -27,7 +27,6 @@
         "togglesw-off-color": "hsl(220, 15%, 20%)"
     },
     "custom_css": `
-        /* Rounded UI elements */
         .mx_RoomView,
         .mx_MessagePanel,
         .mx_SidePanel,

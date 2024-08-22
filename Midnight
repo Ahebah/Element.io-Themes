@@ -1,0 +1,32 @@
+{
+    "name": "Midnight Theme",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "hsl(190, 70%, 60%)", /* links */
+        "accent": "hsl(190, 70%, 48%)", /* general unread/mention elements */
+        "primary-color": "hsl(190, 70%, 60%)", /* similar to accent-color */
+        "warning-color": "hsl(50, 60%, 60%)", /* idle-indicator color */
+        "alert": "hsl(340, 60%, 60%)", /* dnd-indicator color */
+
+        "sidebar-color": "hsl(220, 15%, 10%)", /* main background color */
+        "roomlist-background-color": "hsl(220, 15%, 13%)", /* spacing, secondary elements */
+        "roomlist-text-color": "hsl(220, 25%, 70%)", /* headings and important text */
+        "roomlist-text-secondary-color": "hsl(220, 15%, 60%)", /* normal text */
+        "roomlist-highlights-color": "hsla(230, 20%, 40%, 0.1)", /* channels and buttons when hovered */
+        "roomlist-separator-color": "hsl(220, 15%, 25%)", /* muted channels/chats and timestamps */
+
+        "timeline-background-color": "hsl(220, 15%, 10%)", /* main background color */
+        "timeline-text-color": "hsl(220, 25%, 70%)", /* headings and important text */
+        "secondary-content": "hsl(220, 15%, 60%)", /* normal text */
+        "tertiary-content": "hsl(220, 15%, 40%)", /* icon buttons and channels */
+        "timeline-text-secondary-color": "hsl(220, 15%, 60%)", /* normal text */
+        "timeline-highlights-color": "hsla(220, 20%, 40%, 0.2)", /* channels and buttons when clicked or selected */
+
+        "reaction-row-button-selected-bg-color": "hsl(220, 15%, 20%)", /* dark buttons when clicked */
+        "menu-selected-color": "hsl(220, 15%, 16%)", /* dark buttons */
+        "focus-bg-color": "hsla(230, 20%, 40%, 0.1)", /* channels and buttons when hovered */
+        "room-highlight-color": "hsla(220, 20%, 40%, 0.2)", /* channels and buttons when clicked or selected */
+        "other-user-pill-bg-color": "hsl(220, 15%, 16%)", /* dark buttons */
+        "togglesw-off-color": "hsl(220, 15%, 20%)" /* dark buttons when clicked */
+    }
+}

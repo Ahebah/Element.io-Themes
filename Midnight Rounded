@@ -1,0 +1,63 @@
+{
+    "name": "Midnight Rounded Theme",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "hsl(190, 70%, 60%)",
+        "accent": "hsl(190, 70%, 48%)",
+        "primary-color": "hsl(190, 70%, 60%)",
+        "warning-color": "hsl(50, 60%, 60%)",
+        "alert": "hsl(340, 60%, 60%)",
+        "sidebar-color": "hsl(220, 15%, 10%)",
+        "roomlist-background-color": "hsl(220, 15%, 13%)",
+        "roomlist-text-color": "hsl(220, 25%, 70%)",
+        "roomlist-text-secondary-color": "hsl(220, 15%, 60%)",
+        "roomlist-highlights-color": "hsla(230, 20%, 40%, 0.1)",
+        "roomlist-separator-color": "hsl(220, 15%, 25%)",
+        "timeline-background-color": "hsl(220, 15%, 10%)",
+        "timeline-text-color": "hsl(220, 25%, 70%)",
+        "secondary-content": "hsl(220, 15%, 60%)",
+        "tertiary-content": "hsl(220, 15%, 40%)",
+        "timeline-text-secondary-color": "hsl(220, 15%, 60%)",
+        "timeline-highlights-color": "hsla(220, 20%, 40%, 0.2)",
+        "reaction-row-button-selected-bg-color": "hsl(220, 15%, 20%)",
+        "menu-selected-color": "hsl(220, 15%, 16%)",
+        "focus-bg-color": "hsla(230, 20%, 40%, 0.1)",
+        "room-highlight-color": "hsla(220, 20%, 40%, 0.2)",
+        "other-user-pill-bg-color": "hsl(220, 15%, 16%)",
+        "togglesw-off-color": "hsl(220, 15%, 20%)"
+    },
+    "custom_css": `
+        /* Rounded UI elements */
+        .mx_RoomView,
+        .mx_MessagePanel,
+        .mx_SidePanel,
+        .mx_SearchBox_input,
+        .mx_TimelinePanel,
+        .mx_UserMenu,
+        .mx_HeaderButtons_button,
+        .mx_MessageComposer,
+        .mx_AccessibleButton,
+        .mx_ContextMenu,
+        .mx_ScrollPanel,
+        .mx_Stickerpicker_button {
+            border-radius: 12px;
+        }
+
+        /* Buttons and Inputs */
+        button, input {
+            border-radius: 8px;
+        }
+        
+        /* Modal Dialogs */
+        .mx_Dialog,
+        .mx_AccessibleButton,
+        .mx_ContextualMenu {
+            border-radius: 20px;
+        }
+        
+        /* Search Bar */
+        .mx_SearchBox {
+            border-radius: 8px;
+        }
+    `
+}

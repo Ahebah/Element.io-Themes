@@ -42,19 +42,16 @@
             border-radius: 12px;
         }
 
-        /* Buttons and Inputs */
         button, input {
             border-radius: 8px;
         }
         
-        /* Modal Dialogs */
         .mx_Dialog,
         .mx_AccessibleButton,
         .mx_ContextualMenu {
             border-radius: 20px;
         }
         
-        /* Search Bar */
         .mx_SearchBox {
             border-radius: 8px;
         }

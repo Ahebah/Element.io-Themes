@@ -1,0 +1,32 @@
+{
+    "name": "Flat Red Dark",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#ff4444", 
+        "accent": "#ff4444", 
+        "primary-color": "#ff4444", 
+        "warning-color": "#ff8888", 
+        "alert": "#ff5555", 
+
+        "sidebar-color": "#1a1a1a", 
+        "roomlist-background-color": "#0d0d0d", 
+        "roomlist-text-color": "#ff4444", 
+        "roomlist-text-secondary-color": "#ff6666", 
+        "roomlist-highlights-color": "#ff444450", 
+        "roomlist-separator-color": "#ff4444", 
+
+        "timeline-background-color": "#0d0d0d", 
+        "timeline-text-color": "#ff4444", 
+        "secondary-content": "#ff6666", 
+        "tertiary-content": "#ff8888", 
+        "timeline-text-secondary-color": "#ff8888", 
+        "timeline-highlights-color": "#ff444420", 
+
+        "reaction-row-button-selected-bg-color": "#ff4444", 
+        "menu-selected-color": "#ff4444", 
+        "focus-bg-color": "#ff4444", 
+        "room-highlight-color": "#ff4444", 
+        "other-user-pill-bg-color": "#ff5555", 
+        "togglesw-off-color": "#333333"
+    }
+}

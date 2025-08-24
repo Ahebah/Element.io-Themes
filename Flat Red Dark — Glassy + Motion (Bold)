@@ -1,0 +1,37 @@
+{
+  "name": "Flat Red Dark — Glassy + Motion (Bold)",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#ff4444",
+    "accent": "#ff4444",
+    "primary-color": "#ff4444",
+
+    "warning-color": "#ff8888",
+    "alert": "#ff5555",
+
+    "sidebar-color": "#1a1a1ab3",                    // 70%
+    "roomlist-background-color": "#0d0d0d99",        // 60%
+    "timeline-background-color": "#0d0d0d99",        // 60%
+
+    "roomlist-text-color": "#ff4444",
+    "roomlist-text-secondary-color": "#ff6666",
+    "timeline-text-color": "#ff4444",
+    "timeline-text-secondary-color": "#ff8888",
+    "secondary-content": "#ff6666",
+    "tertiary-content": "#ff8888",
+
+    "roomlist-highlights-color": "#ff444433",        // HOVER
+    "timeline-highlights-color": "#ff444426",        // HOVER
+
+    "room-highlight-color": "#ff444480",             // PRESSED/ACTIVE
+    "reaction-row-button-selected-bg-color": "#ff444466", // PRESSED/ACTIVE
+
+    "menu-selected-color": "#ff4444",
+    "focus-bg-color": "#ff44444d",                   // stronger focus glow
+
+    "other-user-pill-bg-color": "#ff555566",         // bolder glassy badge
+    "roomlist-separator-color": "#ff444426",
+
+    "togglesw-off-color": "#333333"
+  }
+}

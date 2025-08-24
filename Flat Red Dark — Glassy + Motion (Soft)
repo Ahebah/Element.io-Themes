@@ -1,0 +1,37 @@
+{
+  "name": "Flat Red Dark — Glassy + Motion (Soft)",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#ff4444",
+    "accent": "#ff4444",
+    "primary-color": "#ff4444",
+
+    "warning-color": "#ff8888",
+    "alert": "#ff5555",
+
+    "sidebar-color": "#1a1a1acc",                    // glassy pane (80%)
+    "roomlist-background-color": "#0d0d0dbf",        // glassy pane (75%)
+    "timeline-background-color": "#0d0d0dbf",        // glassy pane (75%)
+
+    "roomlist-text-color": "#ff4444",
+    "roomlist-text-secondary-color": "#ff6666",
+    "timeline-text-color": "#ff4444",
+    "timeline-text-secondary-color": "#ff8888",
+    "secondary-content": "#ff6666",
+    "tertiary-content": "#ff8888",
+
+    "roomlist-highlights-color": "#ff444420",        // HOVER (light tint)
+    "timeline-highlights-color": "#ff44441a",        // HOVER (subtle)
+
+    "room-highlight-color": "#ff444466",             // PRESSED/ACTIVE (stronger)
+    "reaction-row-button-selected-bg-color": "#ff44444d", // PRESSED/ACTIVE
+
+    "menu-selected-color": "#ff4444",                // keep solid for clarity
+    "focus-bg-color": "#ff444433",                   // focus glow (faint)
+
+    "other-user-pill-bg-color": "#ff55554d",         // glassy badge
+    "roomlist-separator-color": "#ff44441a",         // soft separators
+
+    "togglesw-off-color": "#333333"
+  }
+}

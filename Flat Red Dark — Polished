@@ -1,0 +1,36 @@
+{
+  "name": "Flat Red Dark — Polished",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#ff4444",
+    "accent": "#ff4444",
+    "primary-color": "#ff4444",
+
+    "warning-color": "#ff8888",
+    "alert": "#ff5555",
+
+    "sidebar-color": "#1a1a1a",
+    "roomlist-background-color": "#0d0d0d",
+    "roomlist-text-color": "#ff4444",
+    "roomlist-text-secondary-color": "#ff6666",
+
+    "roomlist-highlights-color": "#ff444420",
+    "roomlist-separator-color": "#ff444420",
+
+    "timeline-background-color": "#0d0d0d",
+    "timeline-text-color": "#ff4444",
+    "secondary-content": "#ff6666",
+    "tertiary-content": "#ff8888",
+    "timeline-text-secondary-color": "#ff8888",
+    "timeline-highlights-color": "#ff44441a",
+
+    "reaction-row-button-selected-bg-color": "#ff44441a",
+    "menu-selected-color": "#ff4444",
+    "focus-bg-color": "#ff444433",
+
+    "room-highlight-color": "#ff444433",
+    "other-user-pill-bg-color": "#ff55551a",
+
+    "togglesw-off-color": "#333333"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Flat Red Dark V3",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#ff4d4f",
+    "accent": "#ff4d4f",
+    "primary-color": "#ff4d4f",
+    "warning-color": "#ff8a8c",
+    "alert": "#ff6161",
+
+    "sidebar-color": "#121212",
+    "roomlist-background-color": "#0f0f10",
+    "roomlist-text-color": "#e8e8ea",
+    "roomlist-text-secondary-color": "#b7b7bc",
+    "roomlist-highlights-color": "#ff4d4f3d",
+    "roomlist-separator-color": "#242426",
+
+    "timeline-background-color": "#0b0b0c",
+    "timeline-text-color": "#ededee",
+    "timeline-text-secondary-color": "#b9b9be",
+    "timeline-highlights-color": "#ff4d4f26",
+
+    "secondary-content": "#cfcfd4",
+    "tertiary-content": "#9b9ba1",
+
+    "reaction-row-button-selected-bg-color": "#ff4d4f40",
+    "menu-selected-color": "#ff4d4f",
+    "focus-bg-color": "#ff4d4f30",
+    "room-highlight-color": "#ff4d4f",
+    "other-user-pill-bg-color": "#6e1719",
+    "togglesw-off-color": "#343438",
+
+    "username-colors": [
+      "#ff6b6d",
+      "#ff7a7c",
+      "#ff5c5e",
+      "#ff8a8c",
+      "#f25557",
+      "#ff7072",
+      "#ff9697",
+      "#ffb0b1"
+    ],
+    "avatar-background-colors": [
+      "#5a1012",
+      "#6b1416",
+      "#7d181a",
+      "#8f1c1f",
+      "#521012",
+      "#661315",
+      "#74191b",
+      "#4a0d0f"
+    ]
+  },
+  "compound": {
+    "--cpd-color-text-primary": "#ededee",
+    "--cpd-color-text-secondary": "#b9b9be",
+    "--cpd-color-text-tertiary": "#9b9ba1",
+    "--cpd-color-text-disabled": "#727278",
+    "--cpd-color-text-on-solid-primary": "#ffffff",
+    "--cpd-color-text-action-accent": "#ff4d4f",
+
+    "--cpd-color-icon-primary": "#e6e6e8",
+    "--cpd-color-icon-secondary": "#b7b7bc",
+    "--cpd-color-icon-tertiary": "#94949a",
+    "--cpd-color-icon-disabled": "#6f6f75",
+    "--cpd-color-icon-primary-alpha": "#e6e6e899",
+    "--cpd-color-icon-secondary-alpha": "#b7b7bc99",
+    "--cpd-color-icon-accent-primary": "#ff4d4f",
+    "--cpd-color-icon-accent-secondary": "#ff7072",
+    "--cpd-color-icon-accent-tertiary": "#ff9b9c",
+
+    "--cpd-color-bg-canvas-default": "#0b0b0c",
+    "--cpd-color-bg-canvas-subtle": "#101011",
+    "--cpd-color-bg-canvas-disabled": "#1a1a1c",
+
+    "--cpd-color-bg-subtle-primary": "#121214",
+    "--cpd-color-bg-subtle-secondary": "#171719",
+    "--cpd-color-bg-subtle-tertiary": "#1e1e21",
+
+    "--cpd-color-bg-action-primary-rest": "#ff4d4f",
+    "--cpd-color-bg-action-primary-hovered": "#ff5b5d",
+    "--cpd-color-bg-action-primary-pressed": "#e04547",
+    "--cpd-color-bg-action-primary-selected": "#b93335",
+    "--cpd-color-bg-action-secondary-rest": "#1a1a1c",
+    "--cpd-color-bg-action-secondary-hovered": "#212124",
+    "--cpd-color-bg-action-secondary-pressed": "#28282c",
+    "--cpd-color-bg-action-secondary-selected": "#2c2c30",
+
+    "--cpd-color-bg-accent-subtle": "#2a1113",
+    "--cpd-color-bg-accent-hovered": "#351416",
+    "--cpd-color-bg-accent-pressed": "#40181b",
+
+    "--cpd-color-border-interactive-primary": "#ff4d4f",
+    "--cpd-color-border-interactive-secondary": "#343438",
+    "--cpd-color-border-subtle-primary": "#26262a",
+    "--cpd-color-border-subtle-secondary": "#1d1d20",
+
+    "--cpd-color-gray-300": "#94949a",
+    "--cpd-color-gray-400": "#7b7b82",
+    "--cpd-color-gray-500": "#66666d",
+    "--cpd-color-gray-700": "#343438",
+    "--cpd-color-gray-800": "#26262a",
+    "--cpd-color-gray-900": "#171719",
+
+    "--cpd-color-red-400": "#ff7072",
+    "--cpd-color-red-500": "#ff4d4f",
+    "--cpd-color-red-600": "#e04547",
+    "--cpd-color-red-700": "#b93335",
+
+    "--cpd-color-alpha-red-10": "#ff4d4f1a",
+    "--cpd-color-alpha-red-15": "#ff4d4f26",
+    "--cpd-color-alpha-red-20": "#ff4d4f33",
+    "--cpd-color-alpha-red-25": "#ff4d4f40",
+    "--cpd-color-alpha-red-30": "#ff4d4f4d",
+
+    "--cpd-color-bg-critical-subtle": "#2a1113",
+    "--cpd-color-text-critical-primary": "#ff8a8c",
+    "--cpd-color-icon-critical-primary": "#ff7072",
+    "--cpd-color-border-critical-subtle": "#5b2225",
+
+    "--cpd-color-bg-info-subtle": "#151518",
+    "--cpd-color-bg-success-subtle": "#141616",
+    "--cpd-color-bg-warning-subtle": "#1d1715"
+  }
+}

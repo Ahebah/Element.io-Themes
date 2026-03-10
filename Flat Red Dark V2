@@ -1,0 +1,86 @@
+{
+  "name": "Flat Red Dark V2",
+  "is_dark": true,
+  "colors": {
+    "accent-color": "#ff4d4f",
+    "accent": "#ff4d4f",
+    "primary-color": "#ff4d4f",
+    "warning-color": "#ff8a8c",
+    "alert": "#ff5c5c",
+
+    "sidebar-color": "#141414",
+    "roomlist-background-color": "#101010",
+    "roomlist-text-color": "#f3f4f6",
+    "roomlist-text-secondary-color": "#c9cbd1",
+    "roomlist-highlights-color": "#ff4d4f22",
+    "roomlist-separator-color": "#2a2a2a",
+
+    "timeline-background-color": "#0d0d0d",
+    "timeline-text-color": "#f5f5f5",
+    "timeline-text-secondary-color": "#c7c7c7",
+    "timeline-highlights-color": "#ff4d4f1a",
+
+    "secondary-content": "#d4d4d8",
+    "tertiary-content": "#a1a1aa",
+
+    "reaction-row-button-selected-bg-color": "#ff4d4f33",
+    "menu-selected-color": "#ff4d4f",
+    "focus-bg-color": "#ff4d4f22",
+    "room-highlight-color": "#ff4d4f",
+    "other-user-pill-bg-color": "#7f1d1d",
+    "togglesw-off-color": "#3a3a3a",
+
+    "username-colors": [
+      "#ff6b6b",
+      "#ff8787",
+      "#ff9f68",
+      "#f87171",
+      "#fb7185",
+      "#fca5a5",
+      "#fda4af",
+      "#fecaca"
+    ],
+    "avatar-background-colors": [
+      "#7f1d1d",
+      "#991b1b",
+      "#b91c1c",
+      "#881337",
+      "#9f1239",
+      "#7c2d12",
+      "#a61b1b",
+      "#5f1919"
+    ]
+  },
+  "compound": {
+    "--cpd-color-text-primary": "#f5f5f5",
+    "--cpd-color-text-secondary": "#c7c7c7",
+    "--cpd-color-text-on-solid-primary": "#ffffff",
+
+    "--cpd-color-icon-primary": "#f5f5f5",
+    "--cpd-color-icon-secondary": "#c7c7c7",
+    "--cpd-color-icon-tertiary": "#a1a1aa",
+    "--cpd-color-icon-primary-alpha": "#f5f5f599",
+    "--cpd-color-icon-secondary-alpha": "#c7c7c799",
+
+    "--cpd-color-text-action-accent": "#ff4d4f",
+    "--cpd-color-icon-accent-primary": "#ff4d4f",
+    "--cpd-color-icon-accent-secondary": "#ff6b6b",
+    "--cpd-color-icon-accent-tertiary": "#ff8a8c",
+
+    "--cpd-color-bg-canvas-default": "#0d0d0d",
+    "--cpd-color-bg-canvas-subtle": "#141414",
+    "--cpd-color-bg-canvas-disabled": "#1f1f1f",
+
+    "--cpd-color-bg-subtle-primary": "#141414",
+    "--cpd-color-bg-subtle-secondary": "#1a1a1a",
+    "--cpd-color-bg-subtle-tertiary": "#222222",
+
+    "--cpd-color-bg-action-primary-rest": "#ff4d4f",
+    "--cpd-color-bg-action-primary-hovered": "#ff5c5c",
+    "--cpd-color-bg-action-primary-pressed": "#e04446",
+    "--cpd-color-bg-action-primary-selected": "#b83234",
+
+    "--cpd-color-border-interactive-primary": "#ff4d4f",
+    "--cpd-color-border-interactive-secondary": "#3a3a3a"
+  }
+}
